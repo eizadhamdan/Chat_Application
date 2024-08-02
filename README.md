@@ -1,2 +1,3 @@
-# Sockets_with_python
- 
+# Socket Programming
+
+Socket programming is a method for enabling communication between devices over a network using sockets, which are endpoints for sending and receiving data. It typically follows a client-server model where a server listens for and accepts connections from clients. Sockets can use TCP for reliable, connection-oriented communication or UDP for faster, connectionless communication. Key functions include creating, binding, listening, accepting connections, sending, receiving data, and closing sockets. This approach is essential for building networked applications like web servers and chat apps. 
